@@ -176,7 +176,7 @@ The successful implementation of this model highlights the importance of feature
 
 👨‍💻 Author
 
-Kav
+Kaviya B
 
 Machine Learning Internship Project
 
